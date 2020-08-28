@@ -1,7 +1,5 @@
 package day45_Exceptions;
 
-import sun.management.snmp.jvminstr.JvmMemPoolEntryImpl;
-
 public class c02_throwsKeyword {
 
     // I need to use Thread.sleep to wait 2 seconds..

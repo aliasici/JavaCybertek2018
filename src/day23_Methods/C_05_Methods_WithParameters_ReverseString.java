@@ -1,7 +1,5 @@
 package day23_Methods;
 
-import com.sun.org.apache.regexp.internal.RE;
-
 public class C_05_Methods_WithParameters_ReverseString {
 // create a function that can reverse any string
 

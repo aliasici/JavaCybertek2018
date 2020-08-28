@@ -1,7 +1,5 @@
 package day30_ArrayList;
 
-import org.omg.PortableInterceptor.INACTIVE;
-
 import java.util.ArrayList;
 
 public class class05_ArrayList_Methods {

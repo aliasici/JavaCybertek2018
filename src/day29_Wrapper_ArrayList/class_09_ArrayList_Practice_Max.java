@@ -1,8 +1,4 @@
 package day29_Wrapper_ArrayList;
-
-import org.omg.PortableInterceptor.INACTIVE;
-
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 
 public class class_09_ArrayList_Practice_Max {

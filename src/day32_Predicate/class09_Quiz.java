@@ -1,7 +1,5 @@
 package day32_Predicate;
 
-import org.omg.PortableInterceptor.INACTIVE;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 

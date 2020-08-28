@@ -1,7 +1,5 @@
 package day26_MethodOverloading;
 
-import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
-
 public class class05_MethodOverloading3 {
 
     public static void main(String[] args) {
